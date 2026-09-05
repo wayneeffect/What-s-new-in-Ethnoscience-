@@ -1,0 +1,20 @@
+**Recent advances in drug discovery (2025–2026) emphasize AI-driven design and screening, expansion of new therapeutic modalities, progress against previously “undruggable” targets, and a shift toward more predictive, human-relevant preclinical methods.** Pipelines show convergence of technologies rather than isolated breakthroughs, with greater emphasis on durability, safety, manufacturability, and real-world outcomes.
+
+### AI as a Core Engine
+AI has moved from early promise to measurable clinical impact:
+- Over 100–170 AI-enabled or AI-designed therapeutic assets are in interventional human trials (across dozens of companies), with a growing share completing Phase 1 and some advancing further. Examples include Insilico Medicine’s rentosertib (TNIK inhibitor for idiopathic pulmonary fibrosis), which showed lung-function stabilization in Phase 2a and entered Phase 3 planning, and Generate:Biomedicines’ AI-engineered antibody advancing in Phase 3.
+- New models accelerate screening and design: Boltz-2 (MIT/Recursion) predicts structure and binding affinity with near-physics accuracy at ~1,000× the speed of traditional free-energy methods; AdaptiveFlow enables ultra-large virtual screening of billions of molecules with massive cost reductions; generative AI designs proteins and antibodies that can outperform natural sequences.
+- Platforms from companies such as Isomorphic Labs (DeepMind spinout), Recursion (post-Exscientia merger), and others integrate generative chemistry, phenomics, and physics-based methods. Some medicinal chemists are even leveraging general tools like ChatGPT and Gemini for design ideation. Clinical readouts from AI-native programs are expected to provide clearer validation in 2026.
+
+### New Modalities and Mechanisms
+The toolkit continues to expand beyond traditional small molecules and monoclonal antibodies:
+- Established new modalities (ADCs, bispecifics, CAR-T, recombinants) drive substantial pipeline value, while protein degraders (PROTACs, molecular glues), multifunctional antibodies, T-cell engagers, and in vivo cell/gene therapies gain ground. New modalities now represent a majority of projected pipeline value in some analyses.
+- Progress on hard targets includes broader KRAS inhibitors (beyond G12C), menin inhibitors for leukemias, cGAS inhibitors for autoimmune disease, and novel mechanisms such as focal adhesion kinase (FAK) inhibitors and mitochondrial protease activators.
+- 2025 saw novel mechanism-of-action targets among first-in-class approvals, with contributions from multiple regions including China. Approvals and late-stage activity also feature non-opioid pain agents (e.g., Vertex’s Journavx), long-acting HIV prevention (lenacapavir), gene therapies, and treatments for rare diseases.
+
+### Preclinical Innovation and Clinical Focus
+- Regulators and funders are pushing New Approach Methodologies (NAMs)—organoids, tissue chips, and in silico models—to reduce reliance on animal testing, with the FDA and NIH updating guidance and funding priorities.
+- Key 2026 trials to watch include next-generation vaccines, broader RAS inhibitors for pancreatic cancer, IL-6 inhibitors for cardiovascular risk, gene-editing and stem-cell approaches, and readouts in oncology, Alzheimer’s, autoimmune disease, and infectious disease.
+- Industry dynamics show biotechs and academic spin-outs originating many novel candidates, with large pharma focusing on late-stage development, manufacturing, and partnerships. Asia (especially China) is rising in clinical-stage assets and deals.
+
+**Overall trajectory**: Drug discovery is becoming faster and more computationally guided at the early stages, while clinical pipelines diversify across modalities and target previously intractable biology. Challenges remain in translating computational hits into robust clinical efficacy, managing complexity of multi-modal designs, and demonstrating clear advantages in durability and patient outcomes. Progress is tracked in sources such as *Nature Medicine*, *Nature Reviews Drug Discovery*, pipeline reports from Pharm Exec and IQVIA, and conference disclosures (e.g., ACS, ASCO).
